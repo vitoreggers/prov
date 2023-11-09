@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+header{
+    background-color: blue;
+}
+.t1{
+    background-color: black;
+    color: rgb(223, 223, 25);
+}
+.sub0{
+    color: azure;
+    background-color: rgb(4, 11, 71);
+}
+.sub1{
+    color: rgb(184, 71, 36);
+    background-color: rgb(3, 205, 255);
+}
+.b{
+background-color: rgb(211, 230, 230);
+color: rgb(92, 6, 6);
+}
